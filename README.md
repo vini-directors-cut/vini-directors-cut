@@ -1,8 +1,5 @@
 ### Hello there ...
 
-<!--
-**Sr-Vinicius/Sr-Vinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Vinícius Freitas. I'm an Controls and Automation undergraduate at Universidade Federal de Uberlândia. I'm interested in embedded systems development, hardware and firmware projects in general, and IoT applications.
 
 - :bulb: I’m currently working on ...
@@ -11,4 +8,3 @@ My name is Vinícius Freitas. I'm an Controls and Automation undergraduate at Un
 - 📫 How to reach me: https://www.linkedin.com/in/vinícius-freitas-598b481a2/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ... general Kenobi
--->
