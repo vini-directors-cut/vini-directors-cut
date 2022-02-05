@@ -1,4 +1,4 @@
-### Hello there ...
+## Hello there ...
 
 My name is Vinícius Freitas. I'm a Controls and Automation Engineering undergraduate at Universidade Federal de Uberlândia. I'm interested in embedded systems development, hardware and firmware projects in general, and IoT applications.
 
@@ -7,4 +7,18 @@ My name is Vinícius Freitas. I'm a Controls and Automation Engineering undergra
 - 👯 I’m looking to collaborate on the open source comunity.
 - 📫 How to reach me: https://www.linkedin.com/in/vinícius-freitas-598b481a2/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ... general Kenobi
+
+
+### Ferramentas e Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KiCad-Logo.svg/1200px-KiCad-Logo.svg.png" width="40" heigth="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+
+
+### Estou aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" width="40" height="40"/>
