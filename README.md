@@ -17,14 +17,15 @@ My name is Vinícius Freitas. I'm a Controls and Automation Engineering undergra
 - 👯 I’m looking to collaborate on the open source comunity.
 - 😄 Pronouns: he/him.
 
-
-### Tools and Technologies I use:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/b01ulcvxyy2hcvrxqgph" width="38" height="38"/> <img src="https://gitlab.com/uploads/-/system/group/avatar/6593371/kicadlogo.png" width="40" heigth="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/> 
-
 ### My coding languages in Github:
 <p align="center">
-<a href="https://github.com/MiguelRavagnani">
+<a href="https://github.com/Sr-Vinicius">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sr-Vinicius&layout=compact&theme=kacho_ga" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sr-Vinicius&theme=kacho_ga&layout=compact&rank_icon=github" />
 </a>
+</p>
+
+### Tools and technologies I use:
+<p align="center">
+<img src="https://img.shields.io/badge/C-A42A04?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-A42A04?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Shell_Script-A42A04?style=for-the-badge&logo=gnu-bash&logoColor=white"> <img src="https://img.shields.io/badge/Python-A42A04?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Linux-A42A04?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Raspberry%20Pi-A42A04?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"> <img src="https://img.shields.io/badge/espressif-A42A04?style=for-the-badge&logo=espressif&logoColor=white"> <img src="https://img.shields.io/badge/STMicroelectronics-A42A04.svg?style=for-the-badge&logo=STMicroelectronics&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-A42A04?style=for-the-badge&logo=Arduino&logoColor=white"> <img src="https://img.shields.io/badge/KiCad-A42A04.svg?style=for-the-badge&logo=KiCad&logoColor=white"> <img src="https://img.shields.io/badge/ROS-A42A04.svg?style=for-the-badge&logo=ROS&logoColor=white">
 </p>
