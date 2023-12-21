@@ -2,11 +2,11 @@
 
 <p align="center">
 <a href="rodriguesvinifreitas@outlook.com" target="blank">
-<img align="center" src="https://img.shields.io/badge/rodriguesvinifreitas@outlook.com-A42A04?style=for-the-badge&logo=gmail&logoColor=A42A04&labelColor=ffffff" alt="Sr-Vinicius" />
+<img align="center" src="https://img.shields.io/badge/rodriguesvinifreitas@outlook.com-A42A04?style=for-the-badge&logo=gmail&logoColor=A42A04&labelColor=ffffff" alt="vini-directors-cut" />
 </a>
 
 <a href="https://www.linkedin.com/in/vinícius-freitas-598b481a2/" target="blank">
-<img align="center" src="https://img.shields.io/badge/-LinkedIn-A42A04?style=for-the-badge&logo=LinkedIn&logoColor=A42A04&labelColor=ffffff" alt="Sr-Vinicius" />
+<img align="center" src="https://img.shields.io/badge/-LinkedIn-A42A04?style=for-the-badge&logo=LinkedIn&logoColor=A42A04&labelColor=ffffff" alt="vini-directors-cut" />
 </a>
 </p>
 
@@ -20,8 +20,8 @@ My name is Vinícius Freitas. I'm a Controls and Automation Engineering undergra
 ### My coding languages in Github:
 <p align="center">
 <a href="https://github.com/Sr-Vinicius">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sr-Vinicius&layout=compact&theme=kacho_ga" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sr-Vinicius&theme=kacho_ga&layout=compact&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-directors-cut&layout=compact&theme=kacho_ga" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vini-directors-cut&theme=kacho_ga&layout=compact&rank_icon=github" />
 </a>
 </p>
 
