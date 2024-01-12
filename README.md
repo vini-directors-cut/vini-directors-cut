@@ -13,7 +13,7 @@
 My name is Vinícius Freitas. I'm a Controls and Automation Engineering undergraduate at Universidade Federal de Uberlândia. Always interested in embedded systems development, hardware and firmware projects in general, and IoT applications.
 
 - :bulb: I’m currently working on robotics and drone applications with **embedded Linux** and on **ESP32** IoT projects.
-- :floppy_disk: I’m currently learning more about, **ROS2**, **FreeRTOS**, **ESP-IDF** and **NVIDIA CUDA**.
+- :floppy_disk: I’m currently learning more about, **FreeRTOS**, **ESP-IDF**, **NVIDIA CUDA** and **embedded AI**.
 - 👯 I’m looking to collaborate on the open source comunity.
 - 😄 Pronouns: he/him.
 
