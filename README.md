@@ -10,17 +10,19 @@
 </a>
 </p>
 
-My name is Vinícius Freitas. I'm a Controls and Automation Engineering undergraduate at Universidade Federal de Uberlândia. Always interested in embedded systems development, hardware and firmware projects in general, and IoT applications.
+My name is Vinícius Freitas. I'm a Controls and Automation engineer graduated at Universidade Federal de Uberlândia and have been involved in research in the areas of **control systems** and **embedded firmware**. I am enthusiastic about developing firmware for microcontroller devices or Linux systems, and have already explored this area for the development of IoT devices, robots and drones.
+
+I am very fascinated by mathematical modeling of systems, digital signal/image processing, machine vision and unmanned aerial vehicles. I am currently studying for a Master's degree in Electrical Engineering, in the area of ​​Control Systems, and my goal is to develop new control techniques for UAVs using state-of-the-art hardware and algorithms.
 
 - :bulb: I’m currently working on robotics and drone applications with **embedded Linux** and on **ESP32** IoT projects.
-- :floppy_disk: I’m currently learning more about, **FreeRTOS**, **ESP-IDF**, **Linux** and **GPUPU programming**.
 - :mag: Reasearching about UAV system modeling and control.
+- :floppy_disk: I’m currently learning more about, **FreeRTOS**, **ESP-IDF**, **Linux** and **Ardupilot**.
 - 👯 Looking to collaborate on the open source comunity.
 - 😄 Pronouns: he/him.
 
 ### My coding languages in Github:
 <p align="center">
-<a href="https://github.com/Sr-Vinicius">
+<a href="https://github.com/vini-directors-cut">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-directors-cut&layout=compact&theme=kacho_ga" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vini-directors-cut&theme=kacho_ga&layout=compact&rank_icon=github" />
 </a>
